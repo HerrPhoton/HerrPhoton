@@ -6,7 +6,7 @@
 ---
 
 🤖: About me :
-- I'm studing at **Novosibirsk State University**
+- I'm Sanya.
 
 ---
 
