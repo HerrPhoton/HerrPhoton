@@ -8,11 +8,6 @@
 
 ---
 
-#### 🤖: About me :
-- I'm Sanya.
-
----
-
 #### 👾: My Stats :
 <div id="stat" align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HerrPhoton&theme=city_lights" alt=""/>
