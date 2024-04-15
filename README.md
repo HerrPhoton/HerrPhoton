@@ -1,5 +1,5 @@
 <h1 align="center">
-  Welcome to my github
+  Welcome to my GitHub
 </h1>
 
 <div id="header" align="center">
