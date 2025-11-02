@@ -15,5 +15,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=HerrPhoton&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+# 🏢 Organizations
+[![LidumApp](https://github.com/LidumApp.png?size=40)](https://github.com/LidumApp)
+
 ---
 ![](https://komarev.com/ghpvc/?username=HerrPhoton&label=Visitors&color=0e75b6&style=flat)
