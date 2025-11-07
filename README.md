@@ -18,5 +18,3 @@
 # 🏢 Organizations
 [![LidumApp](https://github.com/LidumApp.png?size=40)](https://github.com/LidumApp)
 
----
-![](https://komarev.com/ghpvc/?username=HerrPhoton&label=Visitors&color=0e75b6&style=flat)
